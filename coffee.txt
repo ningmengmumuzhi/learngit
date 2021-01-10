@@ -1,0 +1,33 @@
+﻿<html>
+   <head>
+      <title>星云小网站</title>
+	   <style type="text/css">
+	   body {
+        background-color:#d2b48c;
+        }
+		</style>
+<head>
+   <body>
+     <h1>欢迎来到星云接客网</h1>
+	 <p>
+   <em>小星云</em>有着两周一次的高超技术，且要价不高  <a href="C:\Users\DELL\Desktop\网盘文件快传/coffee2.html">    <img src="11.jpg" width="1000" height="1000"
+        alt="pencil">      </a> 
+   <img src="C:\Users\DELL\Desktop\图片\14.jpg" width="500" height="500"
+        alt=”vip专享">
+   <img src="C:\Users\DELL\Desktop\图片\13.jpg" width="500" height="500"
+        alt="vip专享">
+   <img src="C:\Users\DELL\Desktop\图片\15.jpg" width="500" height="500"
+        alt=“vip专享">
+
+
+  </p>
+  <h2>
+  价格</h2>
+  <p>
+   1200一晚，特殊时期买就赠送刁一枚
+     <img src="C:\Users\DELL\Desktop\图片\12.jpg" width="500" height="500"
+        alt="vip专享">
+  </p>
+ </body>
+</html>
+      	 
